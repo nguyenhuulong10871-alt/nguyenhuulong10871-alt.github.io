@@ -1,20 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Brittany Jones — Contact & Verification</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="robots" content="index,follow">
-  <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding:28px; max-width:900px; margin:auto; color:#111; }
-    header { display:block; margin-bottom:6px; }
-    h1 { font-size:28px; margin:0 0 6px 0; }
-    .meta { color:#555; font-size:14px; margin-bottom:8px; }
-    .card { border:1px solid #eee; padding:16px; border-radius:8px; margin-top:18px; background:#fafafa; }
-    a { color:#0366d6; text-decoration:none; }
-    footer { margin-top:28px; color:#666; font-size:13px; }
-    ul.links { margin:6px 0 0 18px; }
-  </style>
+
+  </style><img width="2000" height="1500" alt="226539723" src="https://github.com/user-attachments/assets/3ed9ca1c-1314-43dd-b105-afb2256b6ea9" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
