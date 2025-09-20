@@ -1,4 +1,4 @@
-![Profile image](https://github.com/user-attachments/assets/3ed9ca1c-1314-43dd-b105-afb2256b6ea9)
+<img width="2000" height="1500" alt="226539723" src="https://github.com/user-attachments/assets/6282b31a-863c-4a2d-9c8e-ecd2c4f7b26e" />
 
 # Brittany Jones — Contact & Verification
 
